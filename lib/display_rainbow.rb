@@ -1,5 +1,5 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-Def display_rainbow(colors)
-  puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
+Def display_rainbow(prism)
+  puts "R: #{prism[0]}, O: #{prism[1]}, Y: #{prism[2]}, G: #{prism[3]}, B: #{prism[4]}, I: #{prism[5]}, V: #{prism[6]}"
 End
